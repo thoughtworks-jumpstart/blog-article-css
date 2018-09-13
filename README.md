@@ -1,8 +1,8 @@
 ### Recreate the blog article page
 * The html structure is given
-* Create a `style.css`
-* Link it to the given html page using `link` tag
-* Add styles to make the page look like below
+* `styles.css` is created and linked to the html page
+  * Font family is already set and imported from google fonts api
+* Add more styles to `styles.css` to make page look similar to the desired output
 
 ### Things to take note
 * The content is in the middle. Find out how to center your content in the middle of the page
@@ -11,7 +11,6 @@
 
 
 ### Font & Colors
-* font-family - `sans-serif`
 * border around body- `#bdc3c7`
 * date - `#3498db`
 * h2 - `#2c3e50`
