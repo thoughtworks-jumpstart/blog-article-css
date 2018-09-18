@@ -1,3 +1,5 @@
+[Link to solution](https://github.com/thoughtworks-jumpstart/blog-article-css/tree/solutions)
+
 ### Recreate the blog article page
 * The html structure is given
 * `styles.css` is created and linked to the html page
